@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jaime <br/><a>Data Manipulator</a>, Graduate Data Science Student</a>
+<h1>Hi, I'm Jaime <br/><a>Data Enthusiast</a>, Graduate Data Science Student</a>
 
 <h2>🖥️ Projects:</h2>
 
