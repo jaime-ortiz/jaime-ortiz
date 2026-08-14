@@ -5,7 +5,7 @@
 
 - <b> </b>
 
-  - [SQLProj.sql](https://github.com/jaime-ortiz/Projects/blob/main/SQLProj.sql)
+  - [COVID SQL Project](https://github.com/jaime-ortiz/Projects/blob/main/SQLProj.sql)
   - 
   - 
 
