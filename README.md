@@ -5,7 +5,7 @@
 
 - <b> </b>
 
-  - SQLProj.sql
+  - [SQLProj.sql](https://github.com/jaime-ortiz/Projects/blob/main/SQLProj.sql)
   - 
   - 
 
