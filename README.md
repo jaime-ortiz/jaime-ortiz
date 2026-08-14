@@ -20,7 +20,7 @@
 
 <h2>🏫 Education:</h2>
 
-- <b>Master's of Data Science | Expected Graduation Date: August 2026</b>
+- <b>Master's of Data Science | Expected Graduation Date: October 2026</b>
 - <b>Bachelor's of Biology | Completed May 2021</b>
 
 
